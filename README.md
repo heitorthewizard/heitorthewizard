@@ -1,4 +1,4 @@
-## Hello, world! I'm Heitor the coder.
+## Hello, world! I'm Heitor.
  <div>
   <a href="https://github.com/heitorthecoder">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=heitorthecoder&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
